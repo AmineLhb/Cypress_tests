@@ -1,0 +1,16 @@
+{
+  "columnNames": [
+    "Survey Process Id",
+    "Team Name",
+    "Survey Type",
+    "Region",
+    "Location",
+    "Location Type",
+    "Due Date",
+    "Number Of Submissions",
+    "Supervisor Email",
+    "Team Creator Email",
+    "Team Creator Role"
+  ]
+}
+

@@ -1,0 +1,16 @@
+{
+  "columnNames": [
+    "NUPCO Code",
+    "MOH Code",
+    "Description",
+    "Catalog No.",
+    "Unit of Measurement",
+    "Volume/Pack Size",
+    "Tender Qty-KSA",
+    "Tender Qty Region",
+    "Weekly Consumption",
+    "Average Weekly Consumption",
+    "Stock in Hand",
+    "Action"
+  ]
+}

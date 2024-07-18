@@ -1,0 +1,22 @@
+{
+  "columnNames": [
+    "S. No.",
+    "Brand name",
+    "Description",
+    "Brand Code",
+    "NUPCO Item Code",
+    "Type",
+    "Quantities in hand",
+    "Quantities in transit",
+    "Nupco Current Inventory",
+    "Nupco Total Request Inventory",
+    "UOM",
+    "Actual Daily Consumption",
+    "Avg. Actual Consumption",
+    "Reorder Level",
+    "Suggested Quantity",
+    "Expected Covering days",
+    "Last updated at",
+    "Actions"
+  ]
+}

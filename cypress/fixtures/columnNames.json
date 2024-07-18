@@ -1,0 +1,28 @@
+{
+    "columnNames": [
+      "Date",
+      "Trip Type",
+      "Pickedup On",
+      "Provider",
+      "Lab Booking Number",
+      "Region",
+      "Point Of Collection",
+      "Lab Record Created On",
+      "Lab Package Registered On",
+      "Lab Package Checked-In On",
+      "Lab Package Shipped On",
+      "Lab Package Received On",
+      "Lab Test Swab Registered On",
+      "Lab Test Tube Updated On",
+      "Lab Test Result On",
+      "Swab Completed Count",
+      "Swab Intransit Count",
+      "Swab Missing Count",
+      "Swab Total Count",
+      "Barcode",
+      "Delivered On",
+      "Status",
+      "Info"
+    ]
+}
+  

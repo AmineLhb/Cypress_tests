@@ -1,0 +1,17 @@
+{
+  "columnNames": [
+    "S. No.",
+    "Code",
+    "Description",
+    "Quantities in hand",
+    "Quantities in transit",
+    "UOM",
+    "Actual Daily Consumption",
+    "Avg. Actual Consumption",
+    "Reorder Level",
+    "Suggested Quantity",
+    "Expected Covering days",
+    "Last updated at",
+    "Actions"
+  ]
+}

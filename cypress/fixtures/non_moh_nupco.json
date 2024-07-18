@@ -1,0 +1,11 @@
+{
+  "columnNames": [
+    "S. No.",
+    "Brand name",
+    "Description",
+    "Current Inventory",
+    "Total Request Inventory",
+    "Remaining Inventory",
+    "Actions"
+  ]
+}

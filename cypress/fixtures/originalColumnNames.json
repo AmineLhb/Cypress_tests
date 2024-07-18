@@ -1,0 +1,25 @@
+{
+    "originalColumnNames": [
+      "Date",
+      "Trip Type",
+      "Pickedup On",
+      "Provider",
+      "Duration",
+      "Courier Booking Number",
+      "Courier Id",
+      "AWB Number",
+      "Coordinates Count",
+      "Courier Created On",
+      "Hospital",
+      "Destination",
+      "Courier Arrivedat Pickup Location On",
+      "Courier Pickedup On",
+      "Courier Arrivedat Delivered Location On",
+      "Courier Delivered On",
+      "Barcode",
+      "Delivered On",
+      "Status",
+      "Info"
+    ]
+  }
+  
